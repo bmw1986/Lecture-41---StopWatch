@@ -22,37 +22,23 @@ class ViewController: UIViewController {
 
     @IBAction func resetButton(sender: AnyObject) {
 
-        // resetDisplay()
+        //Timer.deinit
     }
     
     @IBAction func stopButton(sender: AnyObject) {
 
-        // stopTime()
+        //Timer.stop(Timer)
     }
     
     @IBAction func startButton(sender: AnyObject) {
     
-        // startTime()
+        //Timer.start(Timer)
     }
     
-    @IBOutlet weak var display: UILabel!
-    
-    func resetDisplay() {
-        
-        display.text = "00.00"
+    @IBOutlet func display(elapsedTime) {
+
+        var timeRemaining = self.duration - elapsedTime
+        display.value = timeRemaining
     }
     
-    func stopTime() {
-        
-        var time = 0;
-    }
-    
-    func startTime() {
-        
-        
-    }
 }
-
-
-
-

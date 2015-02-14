@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>532202C6-3849-4265-8B0D-3BB74AA5E58C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>stopWatch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B370237FE57688B0DABB20C889C8BDB84670911</key>
+		<string>https://github.com/bmw1986/Lecture-41---StopWatch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>stopWatch/stopWatch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B370237FE57688B0DABB20C889C8BDB84670911</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bmw1986/Lecture-41---StopWatch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B370237FE57688B0DABB20C889C8BDB84670911</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B370237FE57688B0DABB20C889C8BDB84670911</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lecture%2041%20-%20StopWatch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
