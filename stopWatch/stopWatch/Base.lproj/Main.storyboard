@@ -80,7 +80,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="display" destination="YMT-jk-NEL" id="7qT-WD-baB"/>
+                        <outlet property="display" destination="YMT-jk-NEL" id="I06-FL-yzZ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>

@@ -35,10 +35,6 @@ class ViewController: UIViewController {
         //Timer.start(Timer)
     }
     
-    @IBOutlet func display(elapsedTime) {
-
-        var timeRemaining = self.duration - elapsedTime
-        display.value = timeRemaining
-    }
+    @IBOutlet weak var display: UILabel!
     
 }

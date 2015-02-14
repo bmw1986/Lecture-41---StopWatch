@@ -13,7 +13,6 @@
 		B64AA7551A8EC7CB006892BA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B64AA7541A8EC7CB006892BA /* Images.xcassets */; };
 		B64AA7581A8EC7CB006892BA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B64AA7561A8EC7CB006892BA /* LaunchScreen.xib */; };
 		B64AA7641A8EC7CB006892BA /* stopWatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64AA7631A8EC7CB006892BA /* stopWatchTests.swift */; };
-		B64AA76E1A8FA9C0006892BA /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64AA76D1A8FA9C0006892BA /* Timer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +36,6 @@
 		B64AA75D1A8EC7CB006892BA /* stopWatchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stopWatchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B64AA7621A8EC7CB006892BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B64AA7631A8EC7CB006892BA /* stopWatchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stopWatchTests.swift; sourceTree = "<group>"; };
-		B64AA76D1A8FA9C0006892BA /* Timer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +79,6 @@
 			children = (
 				B64AA74D1A8EC7CB006892BA /* AppDelegate.swift */,
 				B64AA74F1A8EC7CB006892BA /* ViewController.swift */,
-				B64AA76D1A8FA9C0006892BA /* Timer.swift */,
 				B64AA7511A8EC7CB006892BA /* Main.storyboard */,
 				B64AA7541A8EC7CB006892BA /* Images.xcassets */,
 				B64AA7561A8EC7CB006892BA /* LaunchScreen.xib */,
@@ -215,7 +212,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B64AA76E1A8FA9C0006892BA /* Timer.swift in Sources */,
 				B64AA7501A8EC7CB006892BA /* ViewController.swift in Sources */,
 				B64AA74E1A8EC7CB006892BA /* AppDelegate.swift in Sources */,
 			);
@@ -409,6 +405,7 @@
 				B64AA7691A8EC7CB006892BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B64AA76A1A8EC7CB006892BA /* Build configuration list for PBXNativeTarget "stopWatchTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +414,7 @@
 				B64AA76C1A8EC7CB006892BA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
